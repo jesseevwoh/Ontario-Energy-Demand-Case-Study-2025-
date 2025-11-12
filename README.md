@@ -85,8 +85,7 @@ Business Intelligence & Data Analyst
 ---
 
 ## ⚙️ How to View
-1. Download the `.pbix` file or open the PDF report.
-2. 
+Download the `.pbix` file or open the PDF report.
 ---
 
 ## 📄 License
